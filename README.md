@@ -1,4 +1,4 @@
 
-rm-rf MADOX
-cd MADOX
-python MADOX.py
+l$ rm-rf MADOX
+$ cd MADOX
+$ python MADOX.py
